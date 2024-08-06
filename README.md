@@ -9,15 +9,15 @@
  
 📖 I'm currently learning **Django | Laravel | Vue Js**
 
-💬 Ask me about anything you want to ask **[Here..](https://instagram.com/halfirzzha)**
+💬 Ask me about anything you want to ask **[Here..](https://www.instagram.com/frmanwhid)**
 
 🗣️ Motivational Words **"The first stage in seeking knowledge is to listen, then be silent and listen attentively, then keep it, then practice it and then spread it". - Sufyan bin Uyainah**
  </div>
 <div align="center"> 
-  <a href="mailto:halfirzzha@gmail.com">
+  <a href="mailto:firman.xmh09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/halfirzzha" target="_blank">
+  <a href="https://linkedin.com/in/heri-firman-wahyu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
